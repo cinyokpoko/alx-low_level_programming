@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - print -putchar
+ * main - print _putchar
  * is written by ciny
  * Return: 0
  */
@@ -18,3 +18,4 @@ _putchar ('a');
 _putchar ('r');
 _putchar ('\n');
 return (0);
+}
